@@ -97,7 +97,7 @@ body {
     flex-direction: column;
     background-color: #15191C;
     width: 75vw;
-    height: 100vh;
+    height: 100%;
 
     position: absolute;
     left: -100vw;
